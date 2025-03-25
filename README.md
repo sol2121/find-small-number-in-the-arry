@@ -1,0 +1,1 @@
+# find-small-number-in-the-arry
